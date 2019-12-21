@@ -1,0 +1,1 @@
+export const FETCH_BANK_DETAILS = 'FETCH_BANK_DETAILS';
